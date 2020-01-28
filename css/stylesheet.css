@@ -147,6 +147,14 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-hover-none:hover{box-shadow:none!important}
 /* Colors */
 
+.jack-black, .jack-hover-black:hover{color:#ffffff!important;background-color:#000000}
+.jack-text-black,.jack-hover-text-black:hover{color:#000000!important}
+.jack-border-black,.jack-hover-border-black:hover{border-color:#000000!important}
+
+.jack-white, .jack-hover-white:hover{color:#000000!important;background-color:#ffffff}
+.jack-text-white,.jack-hover-text-white:hover{color:#ffffff!important}
+.jack-border-white,.jack-hover-border-white:hover{border-color:#ffffff!important}
+
 .jack-primary, .jack-hover-primary:hover{color:#ffffff!important;background-color:#616161!important}
 .jack-text-primary,.jack-hover-text-primary:hover{color:#616161!important}
 .jack-border-primary,.jack-hover-border-primary:hover{border-color:#616161!important}
