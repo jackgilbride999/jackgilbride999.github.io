@@ -148,12 +148,28 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 /* Colors */
 
 .jack-primary, .jack-hover-primary:hover{color:#ffffff!important;background-color:#616161!important}
-.jack-primary-light, .jack-hover-primary-light:hover{color:#000000!important;background-color:#8e8e8e!important}
-.jack-primary-dark, .jack-hover-primary-dark:hover{color:#ffffff!important;background-color:#373737!important}
-.jack-secondary, .jack-hover-secondary:hover{color:#ffffff!important;background-color:#1565c0!important}
-.jack-secondary-light, .jack-hover-secondary-light:hover{color:#000000!important;background-color:#5e92f3!important}
-.jack-secondary-dark, .jack-hover-secondary-dark:hover{color:#000!important;background-color:#003c8f!important}
+.jack-text-primary,.jack-hover-text-primary:hover{color:#616161!important}
+.jack-border-primary,.jack-hover-border-primary:hover{border-color:#616161!important}
 
+.jack-primary-light, .jack-hover-primary-light:hover{color:#000000!important;background-color:#8e8e8e!important}
+.jack-text-primary-light,.jack-hover-text-primary-light:hover{color:#8e8e8e!important}
+.jack-border-primary-light,.jack-hover-border-primary-light:hover{border-color:#8e8e8e!important}
+
+.jack-primary-dark, .jack-hover-primary-dark:hover{color:#ffffff!important;background-color:#373737!important}
+.jack-text-primary-dark,.jack-hover-text-primary-dark:hover{color:#373737!important}
+.jack-border-primary-dark,.jack-hover-border-primary-dark:hover{border-color:#373737!important}
+
+.jack-secondary, .jack-hover-secondary:hover{color:#ffffff!important;background-color:#1565c0!important}
+.jack-text-secondary,.jack-hover-text-secondary:hover{color:#1565c0!important}
+.jack-border-secondary,.jack-hover-border-secondary:hover{border-color:#1565c0!important}
+
+.jack-secondary-light, .jack-hover-secondary-light:hover{color:#000000!important;background-color:#5e92f3!important}
+.jack-text-secondary-light,.jack-hover-text-secondary-light:hover{color:#5e92f3!important}
+.jack-border-secondary-light,.jack-hover-border-secondary-light:hover{border-color:#5e92f3!important}
+
+.jack-secondary-dark, .jack-hover-secondary-dark:hover{color:#000!important;background-color:#003c8f!important}
+.jack-text-secondary-dark,.jack-hover-text-secondary-dark:hover{color:#003c8f!important}
+.jack-border-secondary-dark,.jack-hover-border-secondary-dark:hover{border-color:#003c8f!important}
 
 .w3-amber,.w3-hover-amber:hover{color:#000!important;background-color:#ffc107!important}
 .w3-aqua,.w3-hover-aqua:hover{color:#000!important;background-color:#00ffff!important}
