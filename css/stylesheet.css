@@ -147,12 +147,12 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-hover-none:hover{box-shadow:none!important}
 
 .container > div {
-    display: inline-block;
-    display: -moz-inline-box;
-    *display: inline; /* For IE7 */
-    zoom: 1; /* Trigger hasLayout */
-    width: 33%;
-    text-align: center;
+    display: inline-block!important;
+    display: -moz-inline-box!important;
+    *display: inline!important; /* For IE7 */
+    zoom: 1!important; /* Trigger hasLayout */
+    width: 33%!important;
+    text-align: center!important;
 }
 
 /* Colors */
