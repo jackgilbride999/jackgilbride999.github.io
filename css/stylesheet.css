@@ -163,6 +163,9 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .jack-text-black,.jack-hover-text-black:hover{color:#000000!important}
 .jack-border-black,.jack-hover-border-black:hover{border-color:#000000!important}
 
+.jack-transparent, .jack-hover-white:hover{color:#000000!important;background-color:#ffffff00}
+
+
 .jack-white, .jack-hover-white:hover{color:#000000!important;background-color:#ffffff}
 .jack-text-white,.jack-hover-text-white:hover{color:#ffffff!important}
 .jack-border-white,.jack-hover-border-white:hover{border-color:#ffffff!important}
