@@ -155,7 +155,11 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
     text-align: center!important;
 }
 
-/* Colors */
+
+.jack-table-left-row{width: 50%!important}
+.jack-table-right-row{width: 50%!important}
+
+
 
 .jack-center{text-align: center!important}
 
