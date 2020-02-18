@@ -162,6 +162,9 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 
 
 .jack-center{text-align: center!important}
+.jack-left{text-align: left!important}
+.jack-right{text-align: right!important}
+
 
 .jack-black, .jack-hover-black:hover{color:#ffffff!important;background-color:#000000}
 .jack-text-black,.jack-hover-text-black:hover{color:#000000!important}
