@@ -201,6 +201,8 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .jack-text-secondary-dark,.jack-hover-text-secondary-dark:hover{color:#003c8f!important}
 .jack-border-secondary-dark,.jack-hover-border-secondary-dark:hover{border-color:#003c8f!important}
 
+.jack-project-description{padding:10px!important}
+
 .w3-amber,.w3-hover-amber:hover{color:#000!important;background-color:#ffc107!important}
 .w3-aqua,.w3-hover-aqua:hover{color:#000!important;background-color:#00ffff!important}
 .w3-blue,.w3-hover-blue:hover{color:#fff!important;background-color:#2196F3!important}
