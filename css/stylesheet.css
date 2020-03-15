@@ -205,6 +205,27 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 
 img{max-width: 100%; max-width: 100%;}
 
+.col-container {
+    display: table; /* Make the container element behave like a table */
+}
+
+.col-left {
+    display: table-cell; /* Make elements inside the container behave like table cells */
+    width:60%;
+}
+
+.col-right {
+    display: table-cell; /* Make elements inside the container behave like table cells */
+    width:40%;
+}
+
+@media only screen and (max-width: 600px) {
+    .col {
+      display: block;
+      width: 100%;
+    }
+  }
+
 .w3-amber,.w3-hover-amber:hover{color:#000!important;background-color:#ffc107!important}
 .w3-aqua,.w3-hover-aqua:hover{color:#000!important;background-color:#00ffff!important}
 .w3-blue,.w3-hover-blue:hover{color:#fff!important;background-color:#2196F3!important}
