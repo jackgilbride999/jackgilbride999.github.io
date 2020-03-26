@@ -160,6 +160,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .jack-table-right-row{width: 50%!important}
 
 
+.jack-column{max-width: 960px!important;margin-right: auto!important;margin-left: auto!important;}
 
 .jack-center{text-align: center!important}
 .jack-right{text-align: right!important}
@@ -225,12 +226,6 @@ img{max-width: 100%; max-width: 100%;}
       width: 100%;
     }
   }
-
-.jack-column{
-    margin-right: auto!important;
-    margin-left: auto!important;
-    max-width: 960px!important;
-}
 
 .w3-amber,.w3-hover-amber:hover{color:#000!important;background-color:#ffc107!important}
 .w3-aqua,.w3-hover-aqua:hover{color:#000!important;background-color:#00ffff!important}
