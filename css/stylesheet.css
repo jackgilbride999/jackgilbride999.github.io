@@ -177,7 +177,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .jack-text-white,.jack-hover-text-white:hover{color:#ffffff!important}
 .jack-border-white,.jack-hover-border-white:hover{border-color:#ffffff!important}
 
-.jack-primary, .jack-hover-primary:hover{color:#ffffff!important;background-color:#616161!important}
+.jack-primary, .jack-hover-primary:hover{color:#ffffff!important;background-color:#ffffff!important}
 .jack-text-primary,.jack-hover-text-primary:hover{color:#616161!important}
 .jack-border-primary,.jack-hover-border-primary:hover{border-color:#616161!important}
 
@@ -225,6 +225,12 @@ img{max-width: 100%; max-width: 100%;}
       width: 100%;
     }
   }
+
+.jack-column{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px!important;
+}
 
 .w3-amber,.w3-hover-amber:hover{color:#000!important;background-color:#ffc107!important}
 .w3-aqua,.w3-hover-aqua:hover{color:#000!important;background-color:#00ffff!important}
